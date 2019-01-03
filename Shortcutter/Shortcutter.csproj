@@ -57,9 +57,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Mover\Mover.csproj">
+    <ProjectReference Include="..\BatchAudioFileConverter\BatchAudioFileConverter.csproj">
       <Project>{991c55e2-0e89-4efe-8fbc-c67c5d1debbb}</Project>
-      <Name>Mover</Name>
+      <Name>BatchAudioFileConverter</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

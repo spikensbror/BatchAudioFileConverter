@@ -1,10 +1,10 @@
 ﻿using Autofac;
 using IWshRuntimeLibrary;
-using Mover.Adapters;
-using Mover.Autofac;
-using Mover.Extensions;
-using Mover.Models;
-using Mover.Services;
+using BatchAudioFileConverter.Adapters;
+using BatchAudioFileConverter.Autofac;
+using BatchAudioFileConverter.Extensions;
+using BatchAudioFileConverter.Models;
+using BatchAudioFileConverter.Services;
 using System;
 using System.IO;
 using System.Linq;
